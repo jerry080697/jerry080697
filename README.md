@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome to Byungjun's GitHub&fontSize=90" />
+ <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=99CCFF&text=Welcome%20to%20my%20GitHub:)&reversal=false" />
 </div>
 
 <!--내용 부분-->
