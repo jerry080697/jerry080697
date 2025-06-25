@@ -4,8 +4,7 @@
 
 <div align="center">
 
-### 👋 Hi there! I'm BYUNGJUN KIM
-A backend-focused developer who values **clean architecture**, **scalable systems**, and **collaborative development**.
+### 👋 안녕하세요! 성장하는 개발자 김병준입니다:)
 
 </div>
 
